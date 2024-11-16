@@ -5,7 +5,7 @@ This is a classic Tetris game implemented using Python and Tkinter for the graph
 ## How to Run the Game
 1. **Clone the Repository**:
 ```bash
-   git clone https://github.com/username/project.git
+   git clone https://github.com/Andriy852/Tetris-Project-in-Python.git
    cd project
 ```
 
