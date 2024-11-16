@@ -6,7 +6,7 @@ This is a classic Tetris game implemented using Python and Tkinter for the graph
 1. **Clone the Repository**:
 ```bash
    git clone https://github.com/Andriy852/Tetris-Project-in-Python.git
-   cd project
+   cd Tetris-Project-in-Python
 ```
 
 2. **Install Dependencies**: If Tkinter is not installed with your Python, you can install it using the following:
